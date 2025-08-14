@@ -19,17 +19,17 @@ let isStudent = myAge < 25;
 console.log("4. Is Student (age < 25):", isStudent);
 
 const person = {
-    name: "Claude",
-    age: 25,
+    name: "elizabeth",
+    age: 19,
     address: {
-        street: "123 AI Street",
-        city: "Digital City",
-        country: "Virtual World"
+        street: "lendon street",
+        city: "Davo City",
+        country: "Philippines"
     },
     hobbies: ["coding", "learning", "helping users"],
     contact: {
-        email: "claude@anthropic.com",
-        phone: "555-AI-HELP"
+        email: "elizabeth.camillo@hcdc.edu.ph",
+        phone: "09631847269"
     }
 };
 console.log("5. Person object:", person);
